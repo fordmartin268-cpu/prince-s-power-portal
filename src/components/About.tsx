@@ -1,4 +1,4 @@
-import { Target, Eye, Heart, Shield, Users, Award } from "lucide-react";
+import { Target, Eye, Heart, Shield, Users, Award, LucideBookImage } from "lucide-react";
 import industrialImage from "@/assets/industrial.jpg";
 
 const About = () => {
@@ -47,7 +47,7 @@ const About = () => {
             </h3>
             <div className="space-y-4 text-muted-foreground">
               <p>
-                <strong className="text-foreground">Princess Power Electrical Wholesalers</strong> was founded in 2017 as the sole owner of the company. With a dedicated team, we aim to build long-term relationships with our clients through regular surveys to ensure complete satisfaction with our products and service offerings.
+                <strong className="text-foreground">Princess Power Electrical Wholesalers</strong> was founded in 2017 by a black woman as the sole owner of the company. With a dedicated team, we aim to build long-term relationships with our clients through regular surveys to ensure complete satisfaction with our products and service offerings.
               </p>
               <p>
                 We supply electrical products for industrial, commercial, and domestic infrastructures. Based in <strong className="text-foreground">Gauteng</strong>, we supply products throughout South Africa and neighbouring countries. Our management team has been in the electrical distribution industry for more than 15 years.
