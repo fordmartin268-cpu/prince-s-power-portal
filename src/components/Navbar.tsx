@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Menu, X, Phone, Mail } from "lucide-react";
-import logo from "@/assets/logo.jpg";
+import logo from "@/assets/logo.png";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -62,7 +62,7 @@ const Navbar = () => {
             <img 
               src={logo} 
               alt="Princess Power Electrical (PTY) LTD" 
-              className="h-16 sm:h-18 w-auto"
+              className="h-18 sm:h-20 w-auto"
             />
           </a>
 
