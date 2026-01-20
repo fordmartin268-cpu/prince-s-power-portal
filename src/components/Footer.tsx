@@ -100,16 +100,6 @@ const Footer = () => {
                 <a href="+27798892652">+27 79 889 2652</a>
         
               </li>
-              <li>
-                <a 
-                  href="https://www.princesspower.co.za"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-electric-light transition-colors"
-                >
-                  www.princesspower.co.za
-                </a>
-              </li>
             
             </ul>
           </div>
