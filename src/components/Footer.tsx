@@ -86,6 +86,22 @@ const Footer = () => {
               </li>
               <li>
                 <a 
+                  href="mailto:nicolet@princesspower.co.za"
+                  className="hover:text-electric-light transition-colors"
+                >
+                  nicolet@princesspower.co.za
+                </a>
+              </li>
+              <li>
+                <a href="+27678489517">+27 67 848 9517</a>
+                
+              </li>
+              <li>
+                <a href="+27798892652">+27 79 889 2652</a>
+        
+              </li>
+              <li>
+                <a 
                   href="https://www.princesspower.co.za"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -94,6 +110,7 @@ const Footer = () => {
                   www.princesspower.co.za
                 </a>
               </li>
+            
             </ul>
           </div>
         </div>
@@ -104,7 +121,7 @@ const Footer = () => {
             © {currentYear} Princess Power Electrical (PTY) LTD. All rights reserved.
           </p>
           <p className="text-white/60 text-sm">
-            Black Woman Owned | Proudly South African
+            Black Owned | Proudly South African
           </p>
         </div>
       </div>
