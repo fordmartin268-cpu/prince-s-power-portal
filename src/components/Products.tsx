@@ -108,11 +108,11 @@ const Products = () => {
         {/* CTA */}
         <div className="text-center mt-12">
           <a
-            href="#contact"
-            className="inline-flex items-center gap-2 bg-gradient-electric text-white px-8 py-4 rounded-md font-heading font-semibold text-lg hover:opacity-90 transition-all shadow-electric"
+            href="mailto:info@princesspower.co.za?subject=Product Catalogue Request"
+            className="inline-flex items-center gap-2 bg-gradient-electric text-white px-6 sm:px-8 py-3 sm:py-4 rounded-md font-heading font-semibold text-base sm:text-lg hover:opacity-90 transition-all shadow-electric"
           >
             Request Product Catalogue
-            <ArrowRight className="w-5 h-5" />
+            <ArrowRight className="w-4 h-4 sm:w-5 sm:h-5" />
           </a>
         </div>
       </div>

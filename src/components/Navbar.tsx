@@ -62,7 +62,7 @@ const Navbar = () => {
             <img 
               src={logo} 
               alt="Princess Power Electrical (PTY) LTD" 
-              className="h-11 sm:h-13 w-auto"
+              className="h-10 sm:h-12 md:h-16 lg:h-20 w-auto transition-all"
             />
           </a>
 
