@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Menu, X, Phone, Mail } from "lucide-react";
-import logo from "@/assets/logo.jpeg";
+import logo from "@/assets/logo.jpg";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -19,7 +19,7 @@ const Navbar = () => {
       <div className="bg-primary text-primary-foreground py-2">
         <div className="container mx-auto px-4 flex justify-center sm:justify-between items-center text-sm">
           <div className="hidden sm:flex items-center gap-6">
-            <a href="tel:+27000000000" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
+            <a href="tel:+27678489517" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
               <Phone className="w-4 h-4" />
               <span>Contact Us Today</span>
             </a>
@@ -62,7 +62,7 @@ const Navbar = () => {
             <img 
               src={logo} 
               alt="Princess Power Electrical (PTY) LTD" 
-              className="h-14 sm:h-16 w-auto"
+              className="h-16 sm:h-18 w-auto"
             />
           </a>
 
